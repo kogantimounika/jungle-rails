@@ -9,5 +9,9 @@
   <h4>Category Count: <%= @category_list.count %></h4>
 </div>
 
+<div class="well">
+  <%= link_to "Product list", admin_products_path, class: "btn btn-primary" %>
+  <%= link_to 'Category List', [:admin, :categories], class: 'btn btn-primary' %>
+</div>
 
 
