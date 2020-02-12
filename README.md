@@ -25,3 +25,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Final Product
+
+!["This is the main page"](https://github.com/kogantimounika/jungle-rails/blob/master/docs/main_page.png)
+!["This is the admin products page"](https://github.com/kogantimounika/jungle-rails/blob/master/docs/admin_products.png)
+!["This is the admin dashboard"](https://github.com/kogantimounika/jungle-rails/blob/master/docs/admin_dashboard.png)
+!["This is my cart page"](https://github.com/kogantimounika/jungle-rails/blob/master/docs/my_cart.png)
+!["This is empty cart page"](https://github.com/kogantimounika/jungle-rails/blob/master/docs/empty_cart.png)
